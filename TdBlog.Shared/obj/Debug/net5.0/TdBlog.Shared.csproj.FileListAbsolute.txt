@@ -1,0 +1,12 @@
+/home/td/Projects/TdBlog/TdBlog.Shared/bin/Debug/net5.0/TdBlog.Shared.deps.json
+/home/td/Projects/TdBlog/TdBlog.Shared/bin/Debug/net5.0/TdBlog.Shared.dll
+/home/td/Projects/TdBlog/TdBlog.Shared/bin/Debug/net5.0/ref/TdBlog.Shared.dll
+/home/td/Projects/TdBlog/TdBlog.Shared/bin/Debug/net5.0/TdBlog.Shared.pdb
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.csprojAssemblyReference.cache
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.AssemblyInfoInputs.cache
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.AssemblyInfo.cs
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.csproj.CoreCompileInputs.cache
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.dll
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/ref/TdBlog.Shared.dll
+/home/td/Projects/TdBlog/TdBlog.Shared/obj/Debug/net5.0/TdBlog.Shared.pdb

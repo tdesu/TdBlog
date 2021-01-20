@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdBlog", "TdBlog\TdBlog.csproj", "{DBB28E9D-1585-4043-8B27-B731FF060D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdBlog.Shared", "TdBlog.Shared\TdBlog.Shared.csproj", "{8C5A1418-B53B-4E74-A2D9-04F557053CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB28E9D-1585-4043-8B27-B731FF060D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB28E9D-1585-4043-8B27-B731FF060D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB28E9D-1585-4043-8B27-B731FF060D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB28E9D-1585-4043-8B27-B731FF060D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5A1418-B53B-4E74-A2D9-04F557053CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5A1418-B53B-4E74-A2D9-04F557053CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5A1418-B53B-4E74-A2D9-04F557053CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5A1418-B53B-4E74-A2D9-04F557053CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
